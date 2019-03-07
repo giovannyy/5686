@@ -39,3 +39,5 @@ Puedes también colocar elementos dentro de otros elementos  — esto se llama a
 Debes asegurarte que los elementos estén correctamente anidados: en el ejemplo de abajo, creamos la etiqueta de apertura del elemento <p> primero, luego la de <strong>, por lo tanto, debemos cerrar ésta etiqueta primero, y luego la de <p>. Esto es incorrecto:
 
 <p>Mi gato es <strong>muy gruñon.</p></strong>
+
+haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
